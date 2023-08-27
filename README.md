@@ -1,1 +1,1 @@
-I mostly specialise in HTML CSS development/ web design also do some backend development in Python. Currently working on upstreet
+I mostly specialize in HTML CSS development/ web design and also do some backend development in Python. Experienced in the cloud(AWS). Currently working on Upstreet
